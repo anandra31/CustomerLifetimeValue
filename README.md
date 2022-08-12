@@ -10,6 +10,10 @@ However, as an insurance company, there comes a difficulty of determining the ac
 
 with that i nmind, comes a need for insurance companies to have the ability to predict & determine every customer's 'Customer Lifetime Value' value.
 
+# Target of Project
+- Create a model for determining Customer Lifetime Value based on available features.
+- Create recomendations based on model & limitations.
+
 # Table of Content
 ## 1. Business Problem Understanding
 - Basic undestanding of the business problem
@@ -38,9 +42,6 @@ with that i nmind, comes a need for insurance companies to have the ability to p
 - Future Recommendations
 
 
-# Target of Analysis
-- Create a model for determining Customer Lifetime Value based on available features.
-- Create recomendations based on model & limitations.
 feel free to take a look / give any suggestions on how i can improve my coding further.
 
 Thank you!
